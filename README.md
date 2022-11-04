@@ -1,4 +1,4 @@
-# Post-and-User-Classes-
+# Post-and-User-Classes-Buffchat App
 
 This Project combines a post class and user class to create a BuffChat app that allows users to interact with both post and user objects. In part one the User and Post classes are implemented and standlone functions are created to manipulate class objects. In part two the functions are implemented as Buffchat member functions. 
 
